@@ -1,0 +1,21 @@
+src/App.tsx(1,27): error TS6133: 'Router' is declared but its value is never read.
+src/App.tsx(1,35): error TS6133: 'Routes' is declared but its value is never read.
+src/App.tsx(1,43): error TS6133: 'Route' is declared but its value is never read.
+src/App.tsx(3,1): error TS6133: 'Navbar' is declared but its value is never read.
+src/App.tsx(4,1): error TS6133: 'Footer' is declared but its value is never read.
+src/App.tsx(5,1): error TS6133: 'Home' is declared but its value is never read.
+src/App.tsx(6,1): error TS6133: 'Directory' is declared but its value is never read.
+src/App.tsx(7,1): error TS6133: 'StoreDetails' is declared but its value is never read.
+src/App.tsx(8,1): error TS6133: 'Events' is declared but its value is never read.
+src/App.tsx(9,1): error TS6133: 'Parking' is declared but its value is never read.
+src/App.tsx(10,1): error TS6133: 'Account' is declared but its value is never read.
+src/App.tsx(11,1): error TS6133: 'Contact' is declared but its value is never read.
+src/App.tsx(12,1): error TS6133: 'NotFound' is declared but its value is never read.
+src/App.tsx(13,1): error TS6133: 'AuthProvider' is declared but its value is never read.
+src/App.tsx(14,1): error TS6133: 'FavoritesProvider' is declared but its value is never read.
+src/App.tsx(16,10): error TS6133: 'ScrollToTop' is declared but its value is never read.
+src/components/Countdown.tsx(2,1): error TS6133: 'differenceInMilliseconds' is declared but its value is never read.
+src/components/EventCard.tsx(2,10): error TS1484: 'GalleriaEvent' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/Modal.tsx(1,10): error TS1484: 'ReactNode' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/hooks/useAuth.tsx(1,58): error TS1484: 'ReactNode' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/hooks/useFavorites.tsx(1,58): error TS1484: 'ReactNode' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
