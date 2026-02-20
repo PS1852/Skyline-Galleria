@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite';
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/skyline-galleria/',
+  base: '/Skyline-Galleria/',
   build: {
     // Raise chunk size warning threshold slightly for framer-motion
     chunkSizeWarningLimit: 750,
